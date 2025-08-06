@@ -4,6 +4,6 @@ I'm Mattie (she/they), an [Associate Professor of Digital Humanities](https://ca
 
 I'm current working on a few research projects: 
 
-- The London Stage Database (in active maintenance pending further funding): [website](https://londonstagedatabase.uoregon.edu) | [repo](https://github.com/LondonStageDB)
+- The London Stage Database: [website](https://londonstagedatabase.uoregon.edu) | [blog](https://blogs.uoregon.edu/londonstage/)| [repo](https://github.com/LondonStageDB)
 - A [network analysis project](https://github.com/mattieburkert/theater-sharers) drawing on data from archival 18th-century lawsuits and court cases
 - A collaborative digital edition of *The Female American* (1767), Volume 2, for [Literature in Context](https://github.com/literatureInContext/)
