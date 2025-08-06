@@ -1,6 +1,6 @@
 ### helloWorld! 
 
-I'm Mattie (she/they), an [Assistant Professor of Digital Humanities](https://cas.uoregon.edu/directory/english/all/mburkert) and [Director of the Minor in DH](https://dh.uoregon.edu) at the University of Oregon, situated on Kalapuya Ilihi, the traditional Indigenous homeland of the Kalapuya people. 
+I'm Mattie (she/they), an [Associate Professor of Digital Humanities](https://cas.uoregon.edu/directory/english/all/mburkert) and [Director of the Minor in DH](https://dh.uoregon.edu) at the University of Oregon, situated on the traditional Indigenous homeland of the Kalapuya people. 
 
 I'm current working on a few research projects: 
 
